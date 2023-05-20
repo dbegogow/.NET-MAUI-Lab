@@ -3,7 +3,7 @@ using CarsFinder.Model;
 
 namespace CarsFinder.Services;
 
-class CarService
+public class CarService : ICarService
 {
     private const string CarsFilePath = "../../../Input/cars.json";
 
