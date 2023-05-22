@@ -1,2 +1,2 @@
 # .NET MAUI Lab
-Cars Finder .NET MAUI project
+Lab for the cross-platform development framework
